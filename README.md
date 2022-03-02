@@ -45,6 +45,6 @@ Learnt how to use CSS Grid.
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ShantanuBorkar)
-- GitHub - [@yourusername](https://www.github.com/AlsoShantanuBorkar)
+- Frontend Mentor - [ShantanuBorkar](https://www.frontendmentor.io/profile/ShantanuBorkar)
+- GitHub - [AlsoShantanuBorkar](https://www.github.com/AlsoShantanuBorkar)
 
