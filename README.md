@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [LiveSite](https://your-live-site-url.com)
+- Live Site URL: [LiveSite](https://testimonials-challenge-sb.netlify.app/)
 
 ## My process
 
